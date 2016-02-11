@@ -16,6 +16,5 @@
     "lumbar": "~2.0.0-beta19"
   },
   "scripts": {
-    "install": "bower install"
   }
 }
